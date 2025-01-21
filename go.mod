@@ -8,7 +8,7 @@ require (
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/bmatcuk/doublestar/v4 v4.6.0
 	github.com/charmbracelet/huh v0.6.0
-	github.com/compose-spec/compose-go/v2 v2.2.0
+	github.com/compose-spec/compose-go/v2 v2.4.1
 	github.com/creack/pty v1.1.21
 	github.com/docker/cli v27.4.0-rc.2+incompatible
 	github.com/docker/docker v27.4.0-rc.2+incompatible
