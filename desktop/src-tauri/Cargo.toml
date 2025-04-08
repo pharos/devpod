@@ -42,7 +42,7 @@ tauri-plugin-log = { version = "2" }
 # Datetime
 chrono = { version = "0.4.23", features = ["serde"] }
 
-tokio = { version = "1.26.0", features = [
+tokio = { version = "1.43.1", features = [
         "time",
         "parking_lot",
         "sync",
