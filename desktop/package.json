@@ -35,7 +35,7 @@
     "@tauri-apps/plugin-log": "2.0.0-rc.1",
     "@tauri-apps/plugin-os": "2.0.0",
     "@tauri-apps/plugin-process": "2.0.0",
-    "@tauri-apps/plugin-shell": "2.0.1",
+    "@tauri-apps/plugin-shell": "2.2.1",
     "@tauri-apps/plugin-store": "2.1.0",
     "@tauri-apps/plugin-updater": "2.0.0",
     "@types/lodash.debounce": "4.0.9",
